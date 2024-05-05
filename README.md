@@ -13,7 +13,5 @@ Hi there 👋 I'm Jeet!<br><br>I'm a Frontend Developer<br><br>I am a 22 year ol
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Jett78&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
