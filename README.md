@@ -1,6 +1,6 @@
  
 # 💫 About Me:
-Hi there 👋 I'm Jeet!<br><br>I'm a Frontend Developer<br><br>I am a 23 year old Frontend Developer based in Kathmandu, Nepal skilled in JavaScript(React.js)<br><br>🌱 I’m currently learning MERN<br>👯 I’m looking to collaborate.<br>⚡ Fun fact: I can play guitar and code.
+Hi there 👋 I'm Jeet!<br><br>I'm a Frontend Developer<br><br>I am a 23 year old Frontend Developer based in Kathmandu, Nepal skilled in JavaScript(React.js/Next js)<br><br>
 
 
 # 💻 Tech Stack:
